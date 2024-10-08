@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0; 
+    padding: 0;
+    background-image: url(https://t3.ftcdn.net/jpg/02/05/87/60/360_F_205876015_hYYs7ugqoU8QAobSS3TbnGQ92qyS5gEc.jpg); 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed; 
+}
+h1{
+    text-align: center;
+    color: blanchedalmond;
+}
+.div1{
+    color: blanchedalmond;
+}
+.div2{
+    color: blanchedalmond; 
+}
+.div3{
+    color: blanchedalmond;
+}
+p{
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    width: 100%; 
+    text-align: left;
+    padding: 10px 0;
+}
